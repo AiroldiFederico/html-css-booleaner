@@ -48,3 +48,32 @@ main{
 .margin-top {
     margin-top: 20px;
 }
+
+
+
+/* -------------------------------------------------------------- */
+
+/* table */
+
+#tablehead{
+    background-color: rgb(101, 136, 248);
+    color: white;
+}
+
+#tablesection{
+    background-color: rgb(122, 247, 247);
+}
+
+
+tr {
+    padding-right: 20%;
+}
+
+.column3 {
+    width: 50%;
+}
+
+th{
+    text-align: left;
+}
+
