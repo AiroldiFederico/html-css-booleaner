@@ -1,0 +1,16 @@
+/* RESET STYLE BROWSER */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    margin-left: 1em;
+}
+
+
+table{
+    border-spacing: 	0;
+}
