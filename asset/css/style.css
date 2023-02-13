@@ -1,8 +1,8 @@
 
 
-
 #logo {
     width: 20%;
+    padding-left: 4px;
 }
 
 header {
@@ -12,3 +12,22 @@ header {
     background-size: 30%;
 }
 
+
+main{
+    padding-left: 4px;
+}
+
+/* color first section grey */
+.first-section{
+    color: gray;
+}
+
+/* color The Booleaner lightblue */
+#author {
+    color: rgb(158, 153, 236);
+}
+
+/* date dimension */
+#date {
+    font-size: 12px;
+}
