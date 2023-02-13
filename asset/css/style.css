@@ -21,7 +21,7 @@ main{
 /* ------------------------------------------------------------- */
 
 /* color first section grey */
-.first-section{
+strong{
     color: gray;
 }
 
@@ -77,3 +77,30 @@ th{
     text-align: left;
 }
 
+/* ------------------------------------------------------------------- */
+
+
+
+/* footer */
+
+#img-footer1{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 208px;
+}
+
+#img-footer2{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    width: 311px;
+    height: 207px;
+    margin-top: 10px;
+}
+
+.img-footer{
+    color: white;
+    font-weight: bold;
+    text-indent: 10px;
+    line-height: 1.8;
+}
