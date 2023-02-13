@@ -1,0 +1,14 @@
+
+
+
+#logo {
+    width: 20%;
+}
+
+header {
+    background-image: url("/asset/img/pattern.png");
+    background-color: rgb(127, 186, 238);
+    padding-top: 30px;
+    background-size: 30%;
+}
+
