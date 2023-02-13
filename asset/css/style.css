@@ -17,6 +17,9 @@ main{
     padding-left: 4px;
 }
 
+
+/* ------------------------------------------------------------- */
+
 /* color first section grey */
 .first-section{
     color: gray;
@@ -31,3 +34,14 @@ main{
 #date {
     font-size: 12px;
 }
+
+/* ---------------------------------------------------------------- */
+
+
+
+/* size image description */
+#img-description {
+    font-size: 12px;
+}
+
+
