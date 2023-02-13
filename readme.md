@@ -1,3 +1,11 @@
-# ESERCIZIO 3 
+# ESERCIZIO N.3
 
-## HTML E CSS
+### Title: html-css-booleaner
+---
+**ALUNNO:** FEDERICO AIROLDI
+
+**DATA:** 13 FEBBRAIO 2023
+
+**STATO DELL'ESERCIZIO:** TERMINATO
+
+Boolean Classe~ #93
