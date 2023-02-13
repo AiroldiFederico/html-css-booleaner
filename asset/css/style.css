@@ -1,5 +1,14 @@
 
 
+
+body{
+    width: 65%;
+    margin: auto;
+}
+
+
+
+
 #logo {
     width: 20%;
     padding-left: 4px;
@@ -7,7 +16,7 @@
 
 header {
     background-image: url("/asset/img/pattern.png");
-    background-color: rgb(127, 186, 238);
+    background-color: rgb(86, 165, 234);
     padding-top: 30px;
     background-size: 30%;
 }
@@ -61,7 +70,7 @@ strong{
 }
 
 #tablesection{
-    background-color: rgb(122, 247, 247);
+    background-color: rgb(200, 233, 248);
 }
 
 
@@ -88,6 +97,7 @@ th{
     background-repeat: no-repeat;
     width: 312px;
     height: 208px;
+    margin-top: 8px;
 }
 
 #img-footer2{
@@ -96,6 +106,7 @@ th{
     width: 311px;
     height: 207px;
     margin-top: 10px;
+    margin-bottom: 15px;
 }
 
 .img-footer{
