@@ -2,31 +2,40 @@
 
 
 body{
-    width: 65%;
-    margin: auto;
+    /* width: 65%;
+    margin: auto; */
     font-family: 'Lora', serif;
+    position: relative;
 }
 
 
-
-
 #logo {
-    width: 20%;
+    width: 10%;
     padding-left: 4px;
+    position: relative;
+    left: 280px;
+
 }
 
 header {
     background-image: url("/asset/img/pattern.png");
     background-color: rgb(86, 165, 234);
     padding-top: 30px;
-    background-size: 30%;
+    background-size: 20%;
+    
 }
 
 
 main{
+    width: 65%;
+    margin: auto;
     padding-left: 4px;
 }
 
+footer{
+    width: 65%;
+    margin: auto;
+}
 
 /* ------------------------------------------------------------- */
 
