@@ -18,7 +18,7 @@ body{
 }
 
 header {
-    background-image: url("/asset/img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-color: rgb(86, 165, 234);
     padding-top: 30px;
     background-size: 20%;
